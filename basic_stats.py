@@ -1,4 +1,4 @@
-Author: Justin Huang
+# Author: Justin Huang
 # GitHub username: huangjus
 # Date: 4/5/23
 # Description: This function is designed to calculate and return the mean, median, and mode of scores from a list of
